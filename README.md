@@ -53,4 +53,4 @@ This is a USSD (Unstructured Supplementary Service Data) application built using
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE]([LICENSE](https://opensource.org/licenses/MIT)https://opensource.org/licenses/MIT) file for details.
